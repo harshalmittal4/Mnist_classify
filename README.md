@@ -2,5 +2,5 @@
 Mnist dataset digit classification.
 
 
-Inspired from Michael Neilsen's 'Neural networks and Deep Learning'.
+Inspired from Michael Nielsen's 'Neural networks and Deep Learning'.
 
