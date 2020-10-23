@@ -1,2 +1,2 @@
 # Mnist classification
-Mnist dataset digit classification.
+Digit classification for Mnist dataset in plain Numpy.
