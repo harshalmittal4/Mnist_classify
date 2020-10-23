@@ -1,2 +1,2 @@
-# Mnist_classify
+# Mnist classification
 Mnist dataset digit classification.
